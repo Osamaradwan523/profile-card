@@ -1,4 +1,4 @@
-# This Chaleng is Profile card chaleng
+# This Chalenge to creat Profile from frontendmentor
 
 ## fututre
 
